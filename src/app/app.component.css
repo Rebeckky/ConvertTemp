@@ -1,0 +1,16 @@
+body{
+    background-color: #888888;
+    margin: auto;
+    display: inline-flex;
+    align-items: center;
+}
+h1 {
+    color: #ffffff;
+    background: linear-gradient(to top,black, #c13a3a,#c16239, #c17839,#c19c39);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 250%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 50%;
+    text-shadow: .25rem .25rem #3a321d;
+}
