@@ -4,10 +4,14 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { CalculateFahrenheitComponent } from './calculate-fahrenheit.component';
+import { CalculateCelsiusComponent } from './calculate-celsius.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CalculateFahrenheitComponent,
+    CalculateCelsiusComponent
   ],
   imports: [
     BrowserModule,

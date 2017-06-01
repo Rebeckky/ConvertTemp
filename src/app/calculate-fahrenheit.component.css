@@ -1,0 +1,27 @@
+.container{
+    /*display: inline-flex;*/
+    margin-top: 2%;
+    align-items: center;
+    width: 80%;
+    background: linear-gradient(to top, #a55f30,#ffcb8c,#ffe8b7, #ffefce,#fffaef);
+    border: 1px solid #506060;
+    border-radius: 10%;
+    padding: 5%;
+    box-shadow: 1em 1em #605252;
+}
+
+.input{
+    font-size: 2rem;
+    width: 8%;
+    margin-right: 1.5%;
+}
+label{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #222000;    
+}
+.result{
+    font-size: 2rem;
+    color: #cc0000;
+    margin: 1%;
+}
